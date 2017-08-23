@@ -1,0 +1,23 @@
+{
+  "name": "zip-app",
+  "version": "0.0.1",
+  "description": "zip 2 integers",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js --a 12345 --b 678"
+  },
+  "dependencies": {
+    "command-line-args": "^4.0.7"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/welcome-project"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch"
+  ]
+}
